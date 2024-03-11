@@ -1,0 +1,12 @@
+.vs/
+*.suo
+*.user
+packages/
+obj/
+bin/
+FailureDocs/
+Old_models/
+Log/
+Models_temp/
+*~$*
+*.tmp
